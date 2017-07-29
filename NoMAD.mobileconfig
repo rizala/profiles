@@ -1,0 +1,72 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+
+<plist version="1.0">
+    <dict>
+        <key>PayloadContent</key>
+        <array>
+            <dict>
+                <key>PayloadDisplayName</key>
+                <string>Settings for NoMAD</string>
+                <key>PayloadEnabled</key>
+                <true/>
+                <key>PayloadIdentifier</key>
+                <string>io.github.rizala.nomad.pref</string>
+                <key>PayloadType</key>
+                <string>com.trusourcelabs.NoMAD</string>
+                <key>PayloadUUID</key>
+                <string>E7E84165-B7CF-4D13-8005-A6770F54863A</string>
+                <key>PayloadVersion</key>
+                <integer>1</integer>
+                <key>GetHelpOptions</key>
+                <string>http://helphere.com</string>
+                <key>GetHelpType</key>
+                <string>URL</string>
+                <key>HideLockScreen</key>
+                <true/>
+                <key>HidePrefs</key>
+                <true/>
+                <key>HideQuit</key>
+                <true/>
+                <key>MenuGetHelp</key>
+                <string>Get Help</string>
+                <key>SelfServicePath</key>
+                <string>"/Applications/Managed\ Software\ Center.app"</string>
+                <key>MessagePasswordChangePolicy</key>
+                <string>Your password is required to have minimum 8 characters.</string>
+                <key>PasswordExpireAlertTime</key>
+                <integer>1728000</integer>
+                <key>RenewTickets</key>
+                <integer>1</integer>
+                <key>SecondsToRenew</key>
+                <integer>300</integer>
+                <key>UseKeychain</key>
+                <true/>
+                <key>LocalPasswordSync</key>
+                <true/>
+                <key>UPCAlert</key>
+                <true/>
+                <key>Verbose</key>
+                <string>3</string>
+            </dict>
+        </array>
+        <key>PayloadDescription</key>
+        <string>NoMAD Preferences</string>
+        <key>PayloadDisplayName</key>
+        <string>Settings for NoMAD</string>
+        <key>PayloadIdentifier</key>
+        <string>io.github.rizala.nomad</string>
+        <key>PayloadOrganization</key>
+        <string>rizala</string>
+        <key>PayloadRemovalDisallowed</key>
+        <true/>
+        <key>PayloadScope</key>
+        <string>System</string>
+        <key>PayloadType</key>
+        <string>Configuration</string>
+        <key>PayloadUUID</key>
+        <string>3F94A29D-32C2-46BF-899A-069766B81D67</string>
+        <key>PayloadVersion</key>
+        <integer>1</integer>
+    </dict>
+</plist>
